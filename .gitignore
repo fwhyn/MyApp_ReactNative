@@ -41,3 +41,6 @@ app-example
 # generated native folders
 /ios
 /android
+
+# VS Code personal settings
+.vscode/settings.json
