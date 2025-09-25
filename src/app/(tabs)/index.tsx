@@ -1,5 +1,5 @@
-import { ThemedText } from '@/components/ThemedText';
-import { ThemedView } from '@/components/ThemedView';
+import { ThemedText } from '@/src/shared/components/ThemedText';
+import { ThemedView } from '@/src/shared/components/ThemedView';
 import { Button } from '@react-navigation/elements';
 import { StyleSheet, Text, TextInput, View } from 'react-native';
 
